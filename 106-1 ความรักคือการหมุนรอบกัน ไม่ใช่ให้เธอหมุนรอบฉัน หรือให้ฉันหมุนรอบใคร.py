@@ -1,4 +1,4 @@
-'''main'''
+'''[Onsite Day 2] ความรักคือการหมุนรอบกัน ไม่ใช่ให้เธอหมุนรอบฉัน หรือให้ฉันหมุนรอบใคร'''
 def deg180nflip(matrix):
     '''sdsdsdsdsd'''
     for i in range(len(matrix)):

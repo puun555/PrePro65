@@ -1,4 +1,4 @@
-"""Drop Drop"""
+"""Cr. P'pan"""
 def main():
     """Drop Drop"""
     grade = float(input())
